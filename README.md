@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## ⚡Language/Ferramentas
 
-## Getting Started
+###
 
-First, run the development server:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img001.prntscr.com/file/img001/Y1dh3AObTGOTnpbKj_oYBA.png" height="40" alt="live Server logo"  />
+ 
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+###
+## Features ⚡
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **TypeScript:** Developed with TypeScript for type safety and improved developer experience.
+- **Tailwind CSS:** Tailwind CSS is a utility-first CSS framework for rapidly building modern websites without ever leaving your HTML.
+- **Live Server:** Extension for Visual Studio Code - Launch a development local Server with live reload feature for static & dynamic pages.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## How to use this project? 🤔
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+ <img src="https://img001.prntscr.com/file/img001/tWD9cTXTSs-HB3N0rdL3mg.png" height="300" alt="Clone Spotify"  />
+  <img src="https://img001.prntscr.com/file/img001/zJIWGa0wSwWus-22yHctVg.png" height="300" alt="Clone Code"  />
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+# To get started with this template, you just need to follow these simple steps:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+   ```
+   git clone https://github.com/Tgiott/replicando-spotify-tailwind-css.git
+   ```
 
-## Deploy on Vercel
+2. Install dependencies:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```
+   npm i
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+3. Run project with Live Server Extension for VsCode
+
+
